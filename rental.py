@@ -1,7 +1,8 @@
+#he Rental Management System is a simple Python-based application designed to help a landlord or property manager:
 from tenant import Tenant  
 
 def main():
-    print("Welcome to Kibathi Rental Management System")
+    print("Trump  Rental Management System")
     tenants = [] # list to store tenant objects in memory, this allows us to manage tenant data during the program's execution without needing a database or file storage for simplicity
 
     while True:  # infinite loop
